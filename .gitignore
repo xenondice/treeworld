@@ -1,0 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+.gradle
+
+# Mac
+.DS_Store
+
+# Rust
+/target
+**/*.rs.bk
+out/
+build/
+gen/
+deps/
+exampleProject
+testData
